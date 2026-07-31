@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mageshwaran1999.github.io/magesh-digital-marketing/sitemap.xml
